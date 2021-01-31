@@ -1,0 +1,56 @@
+--- Association rules ---
+--- Minimum Confidence: 1.0E-4 ---
+1. [sausage] -> [yogurt, whole milk]: 0.024363233665559248
+2. [sausage] -> [yogurt, whole milk]: 0.024363233665559248
+3. [sausage] -> [rolls/buns, whole milk]: 0.018826135105204873
+4. [sausage] -> [rolls/buns, whole milk]: 0.018826135105204873
+5. [sausage] -> [whole milk, soda]: 0.017718715393133997
+6. [sausage] -> [whole milk, soda]: 0.017718715393133997
+7. [yogurt] -> [whole milk, sausage]: 0.017120622568093387
+8. [yogurt] -> [whole milk, sausage]: 0.017120622568093387
+9. [yogurt] -> [rolls/buns, whole milk]: 0.01556420233463035
+10. [yogurt] -> [rolls/buns, whole milk]: 0.01556420233463035
+11. [yogurt] -> [whole milk, other vegetables]: 0.013229571984435798
+12. [yogurt] -> [whole milk, other vegetables]: 0.013229571984435798
+13. [rolls/buns] -> [yogurt, whole milk]: 0.012150668286755772
+14. [rolls/buns] -> [yogurt, whole milk]: 0.012150668286755772
+15. [soda] -> [whole milk, other vegetables]: 0.01169993117687543
+16. [soda] -> [rolls/buns, other vegetables]: 0.01169993117687543
+17. [soda] -> [rolls/buns, other vegetables]: 0.01169993117687543
+18. [soda] -> [whole milk, other vegetables]: 0.01169993117687543
+19. [soda] -> [whole milk, sausage]: 0.011011699931176875
+20. [soda] -> [whole milk, sausage]: 0.011011699931176875
+21. [rolls/buns] -> [whole milk, other vegetables]: 0.010935601458080195
+22. [rolls/buns] -> [whole milk, other vegetables]: 0.010935601458080195
+23. [rolls/buns] -> [whole milk, sausage]: 0.010328068043742407
+24. [rolls/buns] -> [whole milk, sausage]: 0.010328068043742407
+25. [rolls/buns] -> [other vegetables, soda]: 0.010328068043742407
+26. [rolls/buns] -> [other vegetables, soda]: 0.010328068043742407
+27. [soda] -> [rolls/buns, whole milk]: 0.01032346868547832
+28. [soda] -> [rolls/buns, whole milk]: 0.01032346868547832
+29. [other vegetables] -> [rolls/buns, whole milk]: 0.009852216748768473
+30. [other vegetables] -> [rolls/buns, whole milk]: 0.009852216748768473
+31. [whole milk] -> [yogurt, sausage]: 0.009310198899703767
+32. [whole milk] -> [yogurt, sausage]: 0.009310198899703767
+33. [other vegetables] -> [yogurt, whole milk]: 0.009304871373836891
+34. [other vegetables] -> [whole milk, soda]: 0.009304871373836891
+35. [other vegetables] -> [rolls/buns, soda]: 0.009304871373836891
+36. [other vegetables] -> [yogurt, whole milk]: 0.009304871373836891
+37. [other vegetables] -> [rolls/buns, soda]: 0.009304871373836891
+38. [other vegetables] -> [whole milk, soda]: 0.009304871373836891
+39. [rolls/buns] -> [whole milk, soda]: 0.009113001215066828
+40. [rolls/buns] -> [whole milk, soda]: 0.009113001215066828
+41. [whole milk] -> [yogurt, rolls/buns]: 0.008463817181548879
+42. [whole milk] -> [yogurt, rolls/buns]: 0.008463817181548879
+43. [whole milk] -> [rolls/buns, other vegetables]: 0.00761743546339399
+44. [whole milk] -> [rolls/buns, other vegetables]: 0.00761743546339399
+45. [whole milk] -> [other vegetables, soda]: 0.007194244604316547
+46. [whole milk] -> [yogurt, other vegetables]: 0.007194244604316547
+47. [whole milk] -> [rolls/buns, sausage]: 0.007194244604316547
+48. [whole milk] -> [rolls/buns, sausage]: 0.007194244604316547
+49. [whole milk] -> [other vegetables, soda]: 0.007194244604316547
+50. [whole milk] -> [yogurt, other vegetables]: 0.007194244604316547
+51. [whole milk] -> [sausage, soda]: 0.006771053745239103
+52. [whole milk] -> [sausage, soda]: 0.006771053745239103
+53. [whole milk] -> [rolls/buns, soda]: 0.006347862886161659
+54. [whole milk] -> [rolls/buns, soda]: 0.006347862886161659

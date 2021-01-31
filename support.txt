@@ -1,0 +1,752 @@
+--- Frequent itemSets ---
+--- Minimum Support: 0.001 ---
+1. [yogurt], support: 0.08587850030074183
+2. [canned fish], support: 0.007685624540533315
+3. [mayonnaise], support: 0.005012363830782597
+4. [dish cleaner], support: 0.004878700795295061
+5. [popcorn], support: 0.003207912851700862
+6. [sparkling wine], support: 0.0030742498162133263
+7. [prosecco], support: 0.0012697988371315912
+8. [white bread], support: 0.023992514870012697
+9. [beef], support: 0.03395041101383412
+10. [curd], support: 0.03368308494285905
+11. [soft cheese], support: 0.010024727661565194
+12. [Instant food products], support: 0.004009891064626078
+13. [tea], support: 0.001804450979081735
+14. [instant coffee], support: 0.00394305954688231
+15. [flour], support: 0.009757401590590123
+16. [jam], support: 0.0022722716032881106
+17. [shopping bags], support: 0.04758404063356279
+18. [beverages], support: 0.016574216400454454
+19. [flower (seeds)], support: 0.004611374724319989
+20. [long life bakery product], support: 0.017910846755329814
+21. [skin care], support: 0.0013366303548753592
+22. [roll products ], support: 0.005480184454988973
+23. [frozen vegetables], support: 0.028002405934638777
+24. [light bulbs], support: 0.0019381140145692708
+25. [frozen potato products], support: 0.0048118692775512934
+26. [processed cheese], support: 0.01015839069705273
+27. [sliced cheese], support: 0.014034618726191272
+28. [frozen meals], support: 0.016774710953685757
+29. [brown bread], support: 0.03762614448974136
+30. [ready soups], support: 0.0010024727661565194
+31. [turkey], support: 0.005346521419501437
+32. [packaged fruit/vegetables], support: 0.00848760275345853
+33. [potato products], support: 0.0015371249081066632
+34. [pip fruit], support: 0.049054334023925686
+35. [cooking chocolate], support: 0.0010024727661565194
+36. [tidbits], support: 0.0014702933903628951
+37. [nut snack], support: 0.0014702933903628951
+38. [chocolate], support: 0.02359152576355009
+39. [ketchup], support: 0.002138608567800575
+40. [finished products], support: 0.00427721713560115
+41. [butter milk], support: 0.017576689166610975
+42. [pudding powder], support: 0.0011361358016440553
+43. [curd cheese], support: 0.0030742498162133263
+44. [canned vegetables], support: 0.005480184454988973
+45. [pot plants], support: 0.007819287576020852
+46. [female sanitary products], support: 0.0026732607097507185
+47. [liquor], support: 0.0068836463276081
+48. [pork], support: 0.037091492347791216
+49. [condensed milk], support: 0.0065494887388892606
+50. [whipped/sour cream], support: 0.043707812604424245
+51. [pet care], support: 0.005680679008220277
+52. [house keeping products], support: 0.003007418298469558
+53. [white wine], support: 0.011695515605159393
+54. [photo/film], support: 0.005279689901757669
+55. [organic sausage], support: 0.0014702933903628951
+56. [cat food], support: 0.011829178640646929
+57. [onions], support: 0.02024994987636169
+58. [salt], support: 0.005948005079195348
+59. [hamburger meat], support: 0.021853906302212123
+60. [hard cheese], support: 0.01470293390362895
+61. [vinegar], support: 0.003408407404932166
+62. [other vegetables], support: 0.12210118291786407
+63. [dishes], support: 0.009022254895408675
+64. [canned beer], support: 0.04691572545612511
+65. [bottled beer], support: 0.04531176903027468
+66. [nuts/prunes], support: 0.002205440085544343
+67. [pastry], support: 0.0517275947336764
+68. [citrus fruit], support: 0.05313105660629553
+69. [abrasive cleaner], support: 0.0014702933903628951
+70. [domestic eggs], support: 0.037091492347791216
+71. [canned fruit], support: 0.001403461872619127
+72. [cocoa drinks], support: 0.0010693042839002875
+73. [fish], support: 0.0019381140145692708
+74. [specialty chocolate], support: 0.015972732740760543
+75. [specialty cheese], support: 0.0048118692775512934
+76. [tropical fruit], support: 0.0677671589921807
+77. [brandy], support: 0.0025395976742631824
+78. [waffles], support: 0.018512330415023724
+79. [sausage], support: 0.06034886052262247
+80. [male cosmetics], support: 0.0024727661565194146
+81. [rum], support: 0.002138608567800575
+82. [napkins], support: 0.022121232373187194
+83. [detergent], support: 0.008621265788946068
+84. [pickled vegetables], support: 0.008955423377664907
+85. [mustard], support: 0.006148499632426653
+86. [specialty fat], support: 0.0019381140145692708
+87. [ice cream], support: 0.015170754527835327
+88. [frozen fish], support: 0.006816814809864332
+89. [specialty bar], support: 0.013967787208447505
+90. [ham], support: 0.0171088685424046
+91. [chewing gum], support: 0.012029673193878232
+92. [hygiene articles], support: 0.013700461137472432
+93. [liquor (appetizer)], support: 0.004477711688832453
+94. [frankfurter], support: 0.037759807525228894
+95. [artif. sweetener], support: 0.0019381140145692708
+96. [cleaner], support: 0.0020717770500568067
+97. [cookware], support: 0.0011361358016440553
+98. [fruit/vegetable juice], support: 0.03401724253157789
+99. [newspapers], support: 0.038895943326872955
+100. [baking powder], support: 0.008086613646995923
+101. [cereals], support: 0.002806923745238254
+102. [margarine], support: 0.03221279155249616
+103. [cake bar], support: 0.006148499632426653
+104. [rolls/buns], support: 0.11000467820624206
+105. [frozen dessert], support: 0.006148499632426653
+106. [cling film/bags], support: 0.004945532313038829
+107. [flower soil/fertilizer], support: 0.0010693042839002875
+108. [salty snack], support: 0.018779656485998796
+109. [sugar], support: 0.01771035220209851
+110. [spices], support: 0.0026732607097507185
+111. [dog food], support: 0.004477711688832453
+112. [soap], support: 0.0013366303548753592
+113. [grapes], support: 0.01443560783265388
+114. [zwieback], support: 0.004009891064626078
+115. [sauces], support: 0.0029405867807257902
+116. [chicken], support: 0.027868742899151238
+117. [bottled water], support: 0.06068301811134131
+118. [candy], support: 0.014368776314910112
+119. [dental care], support: 0.002205440085544343
+120. [kitchen towels], support: 0.002004945532313039
+121. [candles], support: 0.004410880171088686
+122. [berries], support: 0.021787074784468355
+123. [spread cheese], support: 0.006683151774376796
+124. [herbs], support: 0.010559379803515338
+125. [UHT-milk], support: 0.021386085678005748
+126. [bathroom cleaner], support: 0.0011361358016440553
+127. [meat spreads], support: 0.0023391031210318785
+128. [oil], support: 0.014903428456860256
+129. [soups], support: 0.003207912851700862
+130. [seasonal products], support: 0.007084140880839404
+131. [cream cheese ], support: 0.023658357281293858
+132. [pasta], support: 0.008086613646995923
+133. [misc. beverages], support: 0.01577223818752924
+134. [chocolate marshmallow], support: 0.004009891064626078
+135. [softener], support: 0.0027400922274944863
+136. [semi-finished bread], support: 0.009490075519615051
+137. [butter], support: 0.03522020985096572
+138. [whole milk], support: 0.15792287642852368
+139. [liver loaf], support: 0.003341575887188398
+140. [syrup], support: 0.001403461872619127
+141. [soda], support: 0.09710619528169484
+142. [rice], support: 0.0032747443694446303
+143. [snack products], support: 0.001804450979081735
+144. [root vegetables], support: 0.06957160997126245
+145. [dessert], support: 0.02359152576355009
+146. [coffee], support: 0.03161130789280225
+147. [meat], support: 0.016841542471429525
+148. [red/blush wine], support: 0.01049254828577157
+149. [sweet spreads], support: 0.004544543206576221
+150. [white bread, yogurt], support: 0.0010693042839002875
+151. [yogurt, beef], support: 0.002205440085544343
+152. [yogurt, curd], support: 0.0022722716032881106
+153. [soft cheese, yogurt], support: 0.0012697988371315912
+154. [shopping bags, yogurt], support: 0.003542070440419702
+155. [yogurt, long life bakery product], support: 0.0012029673193878234
+156. [yogurt, frozen vegetables], support: 0.0020717770500568067
+157. [yogurt, frozen meals], support: 0.0013366303548753592
+158. [yogurt, brown bread], support: 0.0023391031210318785
+159. [pip fruit, yogurt], support: 0.00360890195816347
+160. [yogurt, chocolate], support: 0.001603956425850431
+161. [butter milk, yogurt], support: 0.0012697988371315912
+162. [pork, yogurt], support: 0.0030742498162133263
+163. [yogurt, whipped/sour cream], support: 0.0029405867807257902
+164. [yogurt, onions], support: 0.0012697988371315912
+165. [hamburger meat, yogurt], support: 0.001670787943594199
+166. [yogurt, hard cheese], support: 0.0012697988371315912
+167. [yogurt, other vegetables], support: 0.008086613646995923
+168. [yogurt, canned beer], support: 0.0038762280291385416
+169. [bottled beer, yogurt], support: 0.003408407404932166
+170. [yogurt, pastry], support: 0.00360890195816347
+171. [yogurt, citrus fruit], support: 0.004611374724319989
+172. [yogurt, domestic eggs], support: 0.0020717770500568067
+173. [tropical fruit, yogurt], support: 0.005212858384013901
+174. [waffles, yogurt], support: 0.0011361358016440553
+175. [yogurt, sausage], support: 0.005747510525964045
+176. [napkins, yogurt], support: 0.0017376194613379669
+177. [yogurt, detergent], support: 0.0010693042839002875
+178. [specialty bar, yogurt], support: 0.0012029673193878234
+179. [yogurt, ham], support: 0.0012697988371315912
+180. [yogurt, chewing gum], support: 0.001403461872619127
+181. [yogurt, frankfurter], support: 0.0025395976742631824
+182. [yogurt, fruit/vegetable juice], support: 0.002205440085544343
+183. [yogurt, newspapers], support: 0.0028737552629820224
+184. [yogurt, margarine], support: 0.002138608567800575
+185. [yogurt, rolls/buns], support: 0.007819287576020852
+186. [yogurt, salty snack], support: 0.0015371249081066632
+187. [yogurt, chicken], support: 0.001804450979081735
+188. [bottled water, yogurt], support: 0.003809396511394774
+189. [yogurt, candy], support: 0.0012029673193878234
+190. [berries, yogurt], support: 0.001403461872619127
+191. [yogurt, herbs], support: 0.0011361358016440553
+192. [yogurt, UHT-milk], support: 0.0011361358016440553
+193. [yogurt, oil], support: 0.0010693042839002875
+194. [yogurt, cream cheese ], support: 0.001603956425850431
+195. [yogurt, misc. beverages], support: 0.0012697988371315912
+196. [yogurt, butter], support: 0.002205440085544343
+197. [yogurt, whole milk], support: 0.011160863463209249
+198. [soda, yogurt], support: 0.005814342043707813
+199. [root vegetables, yogurt], support: 0.00427721713560115
+200. [dessert, yogurt], support: 0.0012029673193878234
+201. [yogurt, coffee], support: 0.0020717770500568067
+202. [white bread, brown bread], support: 0.0010024727661565194
+203. [white bread, whipped/sour cream], support: 0.0010024727661565194
+204. [white bread, other vegetables], support: 0.0026064291920069507
+205. [white bread, canned beer], support: 0.0015371249081066632
+206. [white bread, citrus fruit], support: 0.0011361358016440553
+207. [white bread, domestic eggs], support: 0.0010024727661565194
+208. [white bread, tropical fruit], support: 0.0010024727661565194
+209. [white bread, sausage], support: 0.001403461872619127
+210. [white bread, rolls/buns], support: 0.002138608567800575
+211. [white bread, bottled water], support: 0.0012697988371315912
+212. [white bread, whole milk], support: 0.003141081333957094
+213. [white bread, soda], support: 0.0015371249081066632
+214. [white bread, root vegetables], support: 0.0012697988371315912
+215. [beef, curd], support: 0.0012697988371315912
+216. [shopping bags, beef], support: 0.0012697988371315912
+217. [beef, frozen vegetables], support: 0.0012697988371315912
+218. [brown bread, beef], support: 0.0015371249081066632
+219. [beef, whipped/sour cream], support: 0.001403461872619127
+220. [beef, other vegetables], support: 0.002806923745238254
+221. [beef, canned beer], support: 0.0010024727661565194
+222. [bottled beer, beef], support: 0.0010693042839002875
+223. [beef, pastry], support: 0.0012029673193878234
+224. [beef, citrus fruit], support: 0.001804450979081735
+225. [domestic eggs, beef], support: 0.0011361358016440553
+226. [tropical fruit, beef], support: 0.0011361358016440553
+227. [beef, frankfurter], support: 0.0010024727661565194
+228. [beef, fruit/vegetable juice], support: 0.0010693042839002875
+229. [beef, newspapers], support: 0.001670787943594199
+230. [margarine, beef], support: 0.001403461872619127
+231. [beef, rolls/buns], support: 0.001603956425850431
+232. [bottled water, beef], support: 0.0013366303548753592
+233. [beef, butter], support: 0.0011361358016440553
+234. [beef, whole milk], support: 0.004678206242063757
+235. [soda, beef], support: 0.001804450979081735
+236. [root vegetables, beef], support: 0.001670787943594199
+237. [shopping bags, curd], support: 0.0012697988371315912
+238. [brown bread, curd], support: 0.0012029673193878234
+239. [pip fruit, curd], support: 0.0013366303548753592
+240. [pork, curd], support: 0.0011361358016440553
+241. [curd, whipped/sour cream], support: 0.001670787943594199
+242. [curd, other vegetables], support: 0.003542070440419702
+243. [curd, canned beer], support: 0.0012029673193878234
+244. [bottled beer, curd], support: 0.0011361358016440553
+245. [curd, pastry], support: 0.001403461872619127
+246. [curd, citrus fruit], support: 0.0011361358016440553
+247. [tropical fruit, curd], support: 0.001871282496825503
+248. [curd, sausage], support: 0.0029405867807257902
+249. [curd, frankfurter], support: 0.0013366303548753592
+250. [margarine, curd], support: 0.0010693042839002875
+251. [curd, rolls/buns], support: 0.0027400922274944863
+252. [curd, chicken], support: 0.0011361358016440553
+253. [bottled water, curd], support: 0.0019381140145692708
+254. [curd, whole milk], support: 0.004143554100113613
+255. [soda, curd], support: 0.002806923745238254
+256. [root vegetables, curd], support: 0.0014702933903628951
+257. [dessert, curd], support: 0.0010024727661565194
+258. [soft cheese, other vegetables], support: 0.0012029673193878234
+259. [soft cheese, rolls/buns], support: 0.0010024727661565194
+260. [soft cheese, whole milk], support: 0.0012029673193878234
+261. [tropical fruit, flour], support: 0.0010693042839002875
+262. [flour, whole milk], support: 0.0013366303548753592
+263. [shopping bags, brown bread], support: 0.0012697988371315912
+264. [shopping bags, pip fruit], support: 0.001871282496825503
+265. [shopping bags, butter milk], support: 0.0010024727661565194
+266. [shopping bags, pork], support: 0.0015371249081066632
+267. [shopping bags, whipped/sour cream], support: 0.0012029673193878234
+268. [shopping bags, other vegetables], support: 0.004945532313038829
+269. [shopping bags, canned beer], support: 0.001871282496825503
+270. [shopping bags, bottled beer], support: 0.0014702933903628951
+271. [shopping bags, pastry], support: 0.0013366303548753592
+272. [shopping bags, citrus fruit], support: 0.001804450979081735
+273. [shopping bags, domestic eggs], support: 0.0014702933903628951
+274. [shopping bags, tropical fruit], support: 0.0027400922274944863
+275. [shopping bags, sausage], support: 0.0019381140145692708
+276. [shopping bags, frankfurter], support: 0.0015371249081066632
+277. [shopping bags, newspapers], support: 0.001804450979081735
+278. [shopping bags, margarine], support: 0.0010024727661565194
+279. [shopping bags, rolls/buns], support: 0.004745037759807526
+280. [shopping bags, chicken], support: 0.0012697988371315912
+281. [shopping bags, bottled water], support: 0.002004945532313039
+282. [shopping bags, cream cheese ], support: 0.0012029673193878234
+283. [shopping bags, butter], support: 0.0013366303548753592
+284. [shopping bags, whole milk], support: 0.006348994185657956
+285. [shopping bags, soda], support: 0.004410880171088686
+286. [shopping bags, root vegetables], support: 0.003341575887188398
+287. [shopping bags, dessert], support: 0.0012029673193878234
+288. [shopping bags, coffee], support: 0.001403461872619127
+289. [beverages, other vegetables], support: 0.0017376194613379669
+290. [beverages, sausage], support: 0.0015371249081066632
+291. [beverages, rolls/buns], support: 0.0012029673193878234
+292. [bottled water, beverages], support: 0.0010693042839002875
+293. [beverages, whole milk], support: 0.0019381140145692708
+294. [soda, beverages], support: 0.001871282496825503
+295. [other vegetables, long life bakery product], support: 0.0011361358016440553
+296. [tropical fruit, long life bakery product], support: 0.0010693042839002875
+297. [sausage, long life bakery product], support: 0.0010693042839002875
+298. [long life bakery product, rolls/buns], support: 0.001670787943594199
+299. [long life bakery product, whole milk], support: 0.0024059346387756467
+300. [soda, long life bakery product], support: 0.0013366303548753592
+301. [pip fruit, frozen vegetables], support: 0.0013366303548753592
+302. [frozen vegetables, other vegetables], support: 0.003141081333957094
+303. [frozen vegetables, canned beer], support: 0.0013366303548753592
+304. [bottled beer, frozen vegetables], support: 0.001403461872619127
+305. [frozen vegetables, citrus fruit], support: 0.001603956425850431
+306. [tropical fruit, frozen vegetables], support: 0.0010693042839002875
+307. [frozen vegetables, sausage], support: 0.0020717770500568067
+308. [frozen vegetables, frankfurter], support: 0.0010693042839002875
+309. [frozen vegetables, rolls/buns], support: 0.0027400922274944863
+310. [bottled water, frozen vegetables], support: 0.0010693042839002875
+311. [frozen vegetables, whole milk], support: 0.003809396511394774
+312. [soda, frozen vegetables], support: 0.002004945532313039
+313. [root vegetables, frozen vegetables], support: 0.002138608567800575
+314. [processed cheese, rolls/buns], support: 0.0014702933903628951
+315. [processed cheese, whole milk], support: 0.0014702933903628951
+316. [root vegetables, processed cheese], support: 0.0010693042839002875
+317. [sliced cheese, other vegetables], support: 0.001403461872619127
+318. [sliced cheese, sausage], support: 0.0011361358016440553
+319. [sliced cheese, whole milk], support: 0.0014702933903628951
+320. [soda, sliced cheese], support: 0.0011361358016440553
+321. [root vegetables, sliced cheese], support: 0.0012029673193878234
+322. [other vegetables, frozen meals], support: 0.002138608567800575
+323. [sausage, frozen meals], support: 0.0012697988371315912
+324. [frozen meals, rolls/buns], support: 0.0014702933903628951
+325. [frozen meals, whole milk], support: 0.0019381140145692708
+326. [soda, frozen meals], support: 0.0015371249081066632
+327. [pip fruit, brown bread], support: 0.001670787943594199
+328. [pork, brown bread], support: 0.001670787943594199
+329. [brown bread, whipped/sour cream], support: 0.0010693042839002875
+330. [brown bread, other vegetables], support: 0.0030742498162133263
+331. [brown bread, canned beer], support: 0.0024059346387756467
+332. [bottled beer, brown bread], support: 0.0015371249081066632
+333. [brown bread, pastry], support: 0.002004945532313039
+334. [brown bread, citrus fruit], support: 0.0017376194613379669
+335. [brown bread, domestic eggs], support: 0.0012029673193878234
+336. [tropical fruit, brown bread], support: 0.0014702933903628951
+337. [brown bread, sausage], support: 0.001804450979081735
+338. [brown bread, frankfurter], support: 0.0015371249081066632
+339. [brown bread, rolls/buns], support: 0.003341575887188398
+340. [bottled water, brown bread], support: 0.0015371249081066632
+341. [brown bread, butter], support: 0.0010024727661565194
+342. [brown bread, whole milk], support: 0.004477711688832453
+343. [soda, brown bread], support: 0.0028737552629820224
+344. [root vegetables, brown bread], support: 0.0013366303548753592
+345. [packaged fruit/vegetables, rolls/buns], support: 0.0012029673193878234
+346. [pip fruit, chocolate], support: 0.0013366303548753592
+347. [pip fruit, pork], support: 0.001603956425850431
+348. [pip fruit, whipped/sour cream], support: 0.001670787943594199
+349. [pip fruit, hard cheese], support: 0.0010693042839002875
+350. [pip fruit, other vegetables], support: 0.004945532313038829
+351. [pip fruit, canned beer], support: 0.001603956425850431
+352. [pip fruit, bottled beer], support: 0.0015371249081066632
+353. [pip fruit, pastry], support: 0.002205440085544343
+354. [pip fruit, citrus fruit], support: 0.0014702933903628951
+355. [pip fruit, tropical fruit], support: 0.0020717770500568067
+356. [pip fruit, sausage], support: 0.002138608567800575
+357. [pip fruit, frankfurter], support: 0.001804450979081735
+358. [pip fruit, fruit/vegetable juice], support: 0.001403461872619127
+359. [pip fruit, newspapers], support: 0.0012697988371315912
+360. [pip fruit, margarine], support: 0.0012697988371315912
+361. [pip fruit, rolls/buns], support: 0.004945532313038829
+362. [pip fruit, chicken], support: 0.0010693042839002875
+363. [pip fruit, bottled water], support: 0.002004945532313039
+364. [pip fruit, berries], support: 0.0011361358016440553
+365. [pip fruit, butter], support: 0.0011361358016440553
+366. [pip fruit, whole milk], support: 0.006616320256633028
+367. [pip fruit, soda], support: 0.00394305954688231
+368. [pip fruit, root vegetables], support: 0.0026732607097507185
+369. [pip fruit, coffee], support: 0.0010693042839002875
+370. [other vegetables, chocolate], support: 0.001871282496825503
+371. [chocolate, canned beer], support: 0.0010693042839002875
+372. [bottled beer, chocolate], support: 0.0010024727661565194
+373. [chocolate, citrus fruit], support: 0.0010693042839002875
+374. [tropical fruit, chocolate], support: 0.001403461872619127
+375. [sausage, chocolate], support: 0.001403461872619127
+376. [chocolate, rolls/buns], support: 0.002806923745238254
+377. [bottled water, chocolate], support: 0.001403461872619127
+378. [chocolate, whole milk], support: 0.0029405867807257902
+379. [soda, chocolate], support: 0.001670787943594199
+380. [root vegetables, chocolate], support: 0.0012029673193878234
+381. [butter milk, other vegetables], support: 0.0012697988371315912
+382. [butter milk, tropical fruit], support: 0.0010024727661565194
+383. [butter milk, rolls/buns], support: 0.0012697988371315912
+384. [butter milk, whole milk], support: 0.001670787943594199
+385. [butter milk, soda], support: 0.001403461872619127
+386. [butter milk, root vegetables], support: 0.0010024727661565194
+387. [pot plants, other vegetables], support: 0.0010024727661565194
+388. [pot plants, whole milk], support: 0.0010024727661565194
+389. [pork, other vegetables], support: 0.00394305954688231
+390. [pork, canned beer], support: 0.001670787943594199
+391. [pork, bottled beer], support: 0.0010693042839002875
+392. [pork, pastry], support: 0.0015371249081066632
+393. [pork, citrus fruit], support: 0.0013366303548753592
+394. [pork, domestic eggs], support: 0.0012029673193878234
+395. [pork, tropical fruit], support: 0.0015371249081066632
+396. [pork, sausage], support: 0.0015371249081066632
+397. [pork, margarine], support: 0.0013366303548753592
+398. [pork, rolls/buns], support: 0.003408407404932166
+399. [pork, bottled water], support: 0.001403461872619127
+400. [pork, whole milk], support: 0.005012363830782597
+401. [pork, soda], support: 0.003007418298469558
+402. [pork, root vegetables], support: 0.0017376194613379669
+403. [whipped/sour cream, onions], support: 0.0010693042839002875
+404. [whipped/sour cream, other vegetables], support: 0.004143554100113613
+405. [whipped/sour cream, canned beer], support: 0.0015371249081066632
+406. [bottled beer, whipped/sour cream], support: 0.0012029673193878234
+407. [whipped/sour cream, pastry], support: 0.0015371249081066632
+408. [whipped/sour cream, citrus fruit], support: 0.0020717770500568067
+409. [tropical fruit, whipped/sour cream], support: 0.0024727661565194146
+410. [whipped/sour cream, sausage], support: 0.002138608567800575
+411. [whipped/sour cream, frankfurter], support: 0.0014702933903628951
+412. [whipped/sour cream, newspapers], support: 0.0015371249081066632
+413. [margarine, whipped/sour cream], support: 0.0011361358016440553
+414. [whipped/sour cream, rolls/buns], support: 0.0029405867807257902
+415. [whipped/sour cream, chicken], support: 0.0012697988371315912
+416. [bottled water, whipped/sour cream], support: 0.001804450979081735
+417. [whipped/sour cream, butter], support: 0.0011361358016440553
+418. [whipped/sour cream, whole milk], support: 0.004611374724319989
+419. [soda, whipped/sour cream], support: 0.003408407404932166
+420. [root vegetables, whipped/sour cream], support: 0.0024727661565194146
+421. [white wine, whole milk], support: 0.0012697988371315912
+422. [tropical fruit, cat food], support: 0.0010024727661565194
+423. [cat food, rolls/buns], support: 0.0010693042839002875
+424. [cat food, whole milk], support: 0.001670787943594199
+425. [other vegetables, onions], support: 0.0015371249081066632
+426. [tropical fruit, onions], support: 0.0012029673193878234
+427. [onions, rolls/buns], support: 0.0017376194613379669
+428. [bottled water, onions], support: 0.0010024727661565194
+429. [onions, whole milk], support: 0.0029405867807257902
+430. [soda, onions], support: 0.0014702933903628951
+431. [root vegetables, onions], support: 0.0013366303548753592
+432. [hamburger meat, other vegetables], support: 0.002205440085544343
+433. [hamburger meat, bottled beer], support: 0.0010693042839002875
+434. [hamburger meat, pastry], support: 0.0010024727661565194
+435. [hamburger meat, tropical fruit], support: 0.0013366303548753592
+436. [hamburger meat, rolls/buns], support: 0.0019381140145692708
+437. [hamburger meat, whole milk], support: 0.0030742498162133263
+438. [hamburger meat, soda], support: 0.001670787943594199
+439. [hamburger meat, root vegetables], support: 0.0012697988371315912
+440. [other vegetables, hard cheese], support: 0.001670787943594199
+441. [hard cheese, rolls/buns], support: 0.001670787943594199
+442. [hard cheese, whole milk], support: 0.001871282496825503
+443. [root vegetables, hard cheese], support: 0.0010024727661565194
+444. [other vegetables, canned beer], support: 0.004009891064626078
+445. [bottled beer, other vegetables], support: 0.004678206242063757
+446. [other vegetables, pastry], support: 0.0036757334759072377
+447. [other vegetables, citrus fruit], support: 0.0048118692775512934
+448. [domestic eggs, other vegetables], support: 0.003542070440419702
+449. [other vegetables, specialty chocolate], support: 0.001670787943594199
+450. [tropical fruit, other vegetables], support: 0.006282162667914188
+451. [waffles, other vegetables], support: 0.0017376194613379669
+452. [other vegetables, sausage], support: 0.006014836596939116
+453. [napkins, other vegetables], support: 0.002138608567800575
+454. [other vegetables, ice cream], support: 0.0012697988371315912
+455. [specialty bar, other vegetables], support: 0.001670787943594199
+456. [ham, other vegetables], support: 0.001603956425850431
+457. [other vegetables, chewing gum], support: 0.0010693042839002875
+458. [hygiene articles, other vegetables], support: 0.001403461872619127
+459. [other vegetables, frankfurter], support: 0.005146026866270133
+460. [other vegetables, fruit/vegetable juice], support: 0.0029405867807257902
+461. [other vegetables, newspapers], support: 0.0036757334759072377
+462. [margarine, other vegetables], support: 0.003207912851700862
+463. [other vegetables, rolls/buns], support: 0.010559379803515338
+464. [salty snack, other vegetables], support: 0.002205440085544343
+465. [sugar, other vegetables], support: 0.0012697988371315912
+466. [other vegetables, grapes], support: 0.001603956425850431
+467. [other vegetables, chicken], support: 0.002205440085544343
+468. [bottled water, other vegetables], support: 0.005480184454988973
+469. [candy, other vegetables], support: 0.0011361358016440553
+470. [berries, other vegetables], support: 0.0026732607097507185
+471. [other vegetables, UHT-milk], support: 0.002138608567800575
+472. [other vegetables, oil], support: 0.001804450979081735
+473. [cream cheese , other vegetables], support: 0.002138608567800575
+474. [misc. beverages, other vegetables], support: 0.0012029673193878234
+475. [semi-finished bread, other vegetables], support: 0.0010024727661565194
+476. [other vegetables, butter], support: 0.0028737552629820224
+477. [other vegetables, whole milk], support: 0.014836596939116486
+478. [soda, other vegetables], support: 0.009690570072846355
+479. [root vegetables, other vegetables], support: 0.005279689901757669
+480. [dessert, other vegetables], support: 0.0020717770500568067
+481. [other vegetables, coffee], support: 0.0026064291920069507
+482. [meat, other vegetables], support: 0.002138608567800575
+483. [red/blush wine, other vegetables], support: 0.0011361358016440553
+484. [bottled beer, canned beer], support: 0.001871282496825503
+485. [pastry, canned beer], support: 0.001871282496825503
+486. [canned beer, citrus fruit], support: 0.0015371249081066632
+487. [domestic eggs, canned beer], support: 0.0012029673193878234
+488. [tropical fruit, canned beer], support: 0.0025395976742631824
+489. [sausage, canned beer], support: 0.0024727661565194146
+490. [frankfurter, canned beer], support: 0.0013366303548753592
+491. [fruit/vegetable juice, canned beer], support: 0.0015371249081066632
+492. [canned beer, newspapers], support: 0.001871282496825503
+493. [margarine, canned beer], support: 0.0012029673193878234
+494. [canned beer, rolls/buns], support: 0.004210385617857381
+495. [salty snack, canned beer], support: 0.0010024727661565194
+496. [chicken, canned beer], support: 0.0011361358016440553
+497. [bottled water, canned beer], support: 0.0014702933903628951
+498. [butter, canned beer], support: 0.0010024727661565194
+499. [canned beer, whole milk], support: 0.006014836596939116
+500. [soda, canned beer], support: 0.003141081333957094
+501. [root vegetables, canned beer], support: 0.0020717770500568067
+502. [canned beer, coffee], support: 0.0010024727661565194
+503. [bottled beer, pastry], support: 0.0020717770500568067
+504. [bottled beer, citrus fruit], support: 0.001670787943594199
+505. [bottled beer, domestic eggs], support: 0.001670787943594199
+506. [bottled beer, tropical fruit], support: 0.0025395976742631824
+507. [bottled beer, sausage], support: 0.003341575887188398
+508. [bottled beer, frankfurter], support: 0.001670787943594199
+509. [bottled beer, fruit/vegetable juice], support: 0.001670787943594199
+510. [bottled beer, newspapers], support: 0.0017376194613379669
+511. [bottled beer, margarine], support: 0.0010693042839002875
+512. [bottled beer, rolls/buns], support: 0.004009891064626078
+513. [bottled beer, chicken], support: 0.0010024727661565194
+514. [bottled beer, bottled water], support: 0.0025395976742631824
+515. [bottled beer, butter], support: 0.001670787943594199
+516. [bottled beer, whole milk], support: 0.007150972398583172
+517. [bottled beer, soda], support: 0.0029405867807257902
+518. [bottled beer, root vegetables], support: 0.0024727661565194146
+519. [pastry, citrus fruit], support: 0.002138608567800575
+520. [domestic eggs, pastry], support: 0.0013366303548753592
+521. [tropical fruit, pastry], support: 0.002806923745238254
+522. [pastry, sausage], support: 0.003207912851700862
+523. [napkins, pastry], support: 0.0017376194613379669
+524. [pastry, frankfurter], support: 0.0017376194613379669
+525. [pastry, fruit/vegetable juice], support: 0.0014702933903628951
+526. [pastry, newspapers], support: 0.002004945532313039
+527. [margarine, pastry], support: 0.0013366303548753592
+528. [pastry, rolls/buns], support: 0.00394305954688231
+529. [pastry, chicken], support: 0.0012697988371315912
+530. [bottled water, pastry], support: 0.0028737552629820224
+531. [berries, pastry], support: 0.0010693042839002875
+532. [pastry, butter], support: 0.0015371249081066632
+533. [pastry, whole milk], support: 0.006482657221145492
+534. [soda, pastry], support: 0.0040767225823698456
+535. [root vegetables, pastry], support: 0.0028737552629820224
+536. [pastry, coffee], support: 0.001403461872619127
+537. [domestic eggs, citrus fruit], support: 0.0012697988371315912
+538. [citrus fruit, specialty chocolate], support: 0.001403461872619127
+539. [tropical fruit, citrus fruit], support: 0.0028737552629820224
+540. [sausage, citrus fruit], support: 0.0012029673193878234
+541. [napkins, citrus fruit], support: 0.001403461872619127
+542. [frankfurter, citrus fruit], support: 0.0017376194613379669
+543. [fruit/vegetable juice, citrus fruit], support: 0.0013366303548753592
+544. [citrus fruit, newspapers], support: 0.0012029673193878234
+545. [margarine, citrus fruit], support: 0.0011361358016440553
+546. [citrus fruit, rolls/buns], support: 0.004678206242063757
+547. [chicken, citrus fruit], support: 0.0012029673193878234
+548. [bottled water, citrus fruit], support: 0.0026064291920069507
+549. [candy, citrus fruit], support: 0.0010024727661565194
+550. [cream cheese , citrus fruit], support: 0.0010024727661565194
+551. [butter, citrus fruit], support: 0.0019381140145692708
+552. [citrus fruit, whole milk], support: 0.007150972398583172
+553. [soda, citrus fruit], support: 0.003742564993651006
+554. [root vegetables, citrus fruit], support: 0.002205440085544343
+555. [citrus fruit, coffee], support: 0.0013366303548753592
+556. [tropical fruit, domestic eggs], support: 0.002138608567800575
+557. [domestic eggs, sausage], support: 0.001804450979081735
+558. [domestic eggs, frankfurter], support: 0.001403461872619127
+559. [domestic eggs, fruit/vegetable juice], support: 0.0010693042839002875
+560. [domestic eggs, newspapers], support: 0.0015371249081066632
+561. [domestic eggs, rolls/buns], support: 0.003408407404932166
+562. [domestic eggs, chicken], support: 0.0010024727661565194
+563. [bottled water, domestic eggs], support: 0.002138608567800575
+564. [domestic eggs, whole milk], support: 0.005279689901757669
+565. [soda, domestic eggs], support: 0.0025395976742631824
+566. [root vegetables, domestic eggs], support: 0.002004945532313039
+567. [domestic eggs, coffee], support: 0.001403461872619127
+568. [tropical fruit, specialty chocolate], support: 0.0013366303548753592
+569. [specialty chocolate, rolls/buns], support: 0.0012697988371315912
+570. [specialty chocolate, whole milk], support: 0.0013366303548753592
+571. [soda, specialty chocolate], support: 0.001403461872619127
+572. [tropical fruit, waffles], support: 0.0011361358016440553
+573. [tropical fruit, sausage], support: 0.0030742498162133263
+574. [tropical fruit, napkins], support: 0.0012697988371315912
+575. [tropical fruit, ham], support: 0.0011361358016440553
+576. [tropical fruit, frankfurter], support: 0.0013366303548753592
+577. [tropical fruit, fruit/vegetable juice], support: 0.002138608567800575
+578. [tropical fruit, newspapers], support: 0.001871282496825503
+579. [tropical fruit, margarine], support: 0.0014702933903628951
+580. [tropical fruit, rolls/buns], support: 0.006081668114682885
+581. [tropical fruit, salty snack], support: 0.0010024727661565194
+582. [tropical fruit, sugar], support: 0.0010024727661565194
+583. [tropical fruit, chicken], support: 0.001403461872619127
+584. [tropical fruit, bottled water], support: 0.003542070440419702
+585. [tropical fruit, berries], support: 0.0012697988371315912
+586. [tropical fruit, UHT-milk], support: 0.0015371249081066632
+587. [tropical fruit, cream cheese ], support: 0.001403461872619127
+588. [tropical fruit, butter], support: 0.0015371249081066632
+589. [tropical fruit, whole milk], support: 0.008220276682483459
+590. [tropical fruit, soda], support: 0.005413352937245205
+591. [tropical fruit, root vegetables], support: 0.0036757334759072377
+592. [tropical fruit, dessert], support: 0.0010693042839002875
+593. [tropical fruit, coffee], support: 0.0015371249081066632
+594. [waffles, rolls/buns], support: 0.001603956425850431
+595. [waffles, whole milk], support: 0.0026064291920069507
+596. [waffles, root vegetables], support: 0.0013366303548753592
+597. [sausage, frankfurter], support: 0.0014702933903628951
+598. [sausage, fruit/vegetable juice], support: 0.001804450979081735
+599. [sausage, newspapers], support: 0.001804450979081735
+600. [margarine, sausage], support: 0.001871282496825503
+601. [sausage, rolls/buns], support: 0.005346521419501437
+602. [salty snack, sausage], support: 0.0011361358016440553
+603. [sausage, grapes], support: 0.0010693042839002875
+604. [sausage, chicken], support: 0.0010693042839002875
+605. [bottled water, sausage], support: 0.003141081333957094
+606. [sausage, UHT-milk], support: 0.0011361358016440553
+607. [cream cheese , sausage], support: 0.0012029673193878234
+608. [misc. beverages, sausage], support: 0.0010693042839002875
+609. [sausage, butter], support: 0.0019381140145692708
+610. [sausage, whole milk], support: 0.008955423377664907
+611. [soda, sausage], support: 0.005948005079195348
+612. [root vegetables, sausage], support: 0.003341575887188398
+613. [dessert, sausage], support: 0.0014702933903628951
+614. [sausage, coffee], support: 0.0013366303548753592
+615. [napkins, rolls/buns], support: 0.0017376194613379669
+616. [napkins, whole milk], support: 0.0024059346387756467
+617. [napkins, soda], support: 0.0015371249081066632
+618. [napkins, root vegetables], support: 0.0010693042839002875
+619. [detergent, rolls/buns], support: 0.0010024727661565194
+620. [detergent, whole milk], support: 0.001403461872619127
+621. [pickled vegetables, whole milk], support: 0.0010024727661565194
+622. [ice cream, rolls/buns], support: 0.0017376194613379669
+623. [ice cream, whole milk], support: 0.0019381140145692708
+624. [soda, ice cream], support: 0.0012029673193878234
+625. [frozen fish, whole milk], support: 0.0010693042839002875
+626. [specialty bar, rolls/buns], support: 0.0012029673193878234
+627. [specialty bar, whole milk], support: 0.001670787943594199
+628. [specialty bar, soda], support: 0.0012697988371315912
+629. [ham, rolls/buns], support: 0.0012697988371315912
+630. [ham, whole milk], support: 0.0027400922274944863
+631. [soda, ham], support: 0.0012029673193878234
+632. [chewing gum, whole milk], support: 0.001670787943594199
+633. [soda, chewing gum], support: 0.0010024727661565194
+634. [hygiene articles, rolls/buns], support: 0.0013366303548753592
+635. [hygiene articles, whole milk], support: 0.0017376194613379669
+636. [hygiene articles, soda], support: 0.0010693042839002875
+637. [hygiene articles, root vegetables], support: 0.0010024727661565194
+638. [frankfurter, fruit/vegetable juice], support: 0.0011361358016440553
+639. [frankfurter, newspapers], support: 0.0010693042839002875
+640. [margarine, frankfurter], support: 0.001603956425850431
+641. [frankfurter, rolls/buns], support: 0.0036757334759072377
+642. [bottled water, frankfurter], support: 0.002205440085544343
+643. [cream cheese , frankfurter], support: 0.0010024727661565194
+644. [frankfurter, butter], support: 0.001403461872619127
+645. [frankfurter, whole milk], support: 0.005279689901757669
+646. [soda, frankfurter], support: 0.0030742498162133263
+647. [root vegetables, frankfurter], support: 0.002205440085544343
+648. [frankfurter, coffee], support: 0.0014702933903628951
+649. [margarine, fruit/vegetable juice], support: 0.0010024727661565194
+650. [fruit/vegetable juice, rolls/buns], support: 0.003742564993651006
+651. [bottled water, fruit/vegetable juice], support: 0.0012029673193878234
+652. [fruit/vegetable juice, butter], support: 0.001403461872619127
+653. [fruit/vegetable juice, whole milk], support: 0.004410880171088686
+654. [soda, fruit/vegetable juice], support: 0.002138608567800575
+655. [root vegetables, fruit/vegetable juice], support: 0.001804450979081735
+656. [newspapers, rolls/buns], support: 0.003007418298469558
+657. [bottled water, newspapers], support: 0.001804450979081735
+658. [butter, newspapers], support: 0.001403461872619127
+659. [newspapers, whole milk], support: 0.005613847490476508
+660. [soda, newspapers], support: 0.0023391031210318785
+661. [root vegetables, newspapers], support: 0.0025395976742631824
+662. [margarine, rolls/buns], support: 0.003007418298469558
+663. [margarine, chicken], support: 0.0010024727661565194
+664. [bottled water, margarine], support: 0.001403461872619127
+665. [margarine, butter], support: 0.001403461872619127
+666. [margarine, whole milk], support: 0.0040767225823698456
+667. [soda, margarine], support: 0.0026064291920069507
+668. [root vegetables, margarine], support: 0.0019381140145692708
+669. [salty snack, rolls/buns], support: 0.0019381140145692708
+670. [rolls/buns, grapes], support: 0.0012029673193878234
+671. [chicken, rolls/buns], support: 0.0028737552629820224
+672. [bottled water, rolls/buns], support: 0.004678206242063757
+673. [candy, rolls/buns], support: 0.0014702933903628951
+674. [berries, rolls/buns], support: 0.001670787943594199
+675. [rolls/buns, UHT-milk], support: 0.001804450979081735
+676. [rolls/buns, oil], support: 0.0013366303548753592
+677. [seasonal products, rolls/buns], support: 0.0010024727661565194
+678. [cream cheese , rolls/buns], support: 0.001871282496825503
+679. [misc. beverages, rolls/buns], support: 0.0013366303548753592
+680. [butter, rolls/buns], support: 0.0028737552629820224
+681. [rolls/buns, whole milk], support: 0.013967787208447505
+682. [soda, rolls/buns], support: 0.008086613646995923
+683. [root vegetables, rolls/buns], support: 0.005747510525964045
+684. [dessert, rolls/buns], support: 0.002004945532313039
+685. [rolls/buns, coffee], support: 0.0024059346387756467
+686. [meat, rolls/buns], support: 0.0013366303548753592
+687. [red/blush wine, rolls/buns], support: 0.0013366303548753592
+688. [salty snack, whole milk], support: 0.0019381140145692708
+689. [soda, salty snack], support: 0.001403461872619127
+690. [root vegetables, salty snack], support: 0.0010693042839002875
+691. [bottled water, sugar], support: 0.0014702933903628951
+692. [sugar, whole milk], support: 0.0024727661565194146
+693. [soda, sugar], support: 0.0012029673193878234
+694. [grapes, whole milk], support: 0.0019381140145692708
+695. [soda, grapes], support: 0.001403461872619127
+696. [root vegetables, grapes], support: 0.0010693042839002875
+697. [bottled water, chicken], support: 0.0013366303548753592
+698. [chicken, whole milk], support: 0.003408407404932166
+699. [soda, chicken], support: 0.002138608567800575
+700. [root vegetables, chicken], support: 0.0010024727661565194
+701. [bottled water, berries], support: 0.0010693042839002875
+702. [bottled water, UHT-milk], support: 0.0010693042839002875
+703. [bottled water, butter], support: 0.001804450979081735
+704. [bottled water, whole milk], support: 0.007150972398583172
+705. [bottled water, soda], support: 0.0048118692775512934
+706. [bottled water, root vegetables], support: 0.0034752389226759338
+707. [bottled water, dessert], support: 0.0010693042839002875
+708. [bottled water, coffee], support: 0.0015371249081066632
+709. [candy, whole milk], support: 0.002138608567800575
+710. [soda, candy], support: 0.0012697988371315912
+711. [berries, whole milk], support: 0.0022722716032881106
+712. [berries, soda], support: 0.0014702933903628951
+713. [berries, root vegetables], support: 0.0010693042839002875
+714. [herbs, whole milk], support: 0.0011361358016440553
+715. [UHT-milk, whole milk], support: 0.0025395976742631824
+716. [soda, UHT-milk], support: 0.0012697988371315912
+717. [root vegetables, UHT-milk], support: 0.0010024727661565194
+718. [oil, whole milk], support: 0.0019381140145692708
+719. [soda, oil], support: 0.001804450979081735
+720. [cream cheese , whole milk], support: 0.0028737552629820224
+721. [soda, cream cheese ], support: 0.0014702933903628951
+722. [root vegetables, cream cheese ], support: 0.001603956425850431
+723. [pasta, whole milk], support: 0.0010693042839002875
+724. [misc. beverages, whole milk], support: 0.001403461872619127
+725. [root vegetables, misc. beverages], support: 0.0010024727661565194
+726. [semi-finished bread, whole milk], support: 0.001670787943594199
+727. [butter, whole milk], support: 0.004678206242063757
+728. [soda, butter], support: 0.003141081333957094
+729. [root vegetables, butter], support: 0.002004945532313039
+730. [soda, whole milk], support: 0.011628684087415625
+731. [root vegetables, whole milk], support: 0.00755196150504578
+732. [dessert, whole milk], support: 0.0024059346387756467
+733. [whole milk, coffee], support: 0.003809396511394774
+734. [meat, whole milk], support: 0.002205440085544343
+735. [soda, root vegetables], support: 0.005279689901757669
+736. [soda, dessert], support: 0.0014702933903628951
+737. [soda, coffee], support: 0.0024727661565194146
+738. [soda, meat], support: 0.0010024727661565194
+739. [root vegetables, dessert], support: 0.0010693042839002875
+740. [root vegetables, coffee], support: 0.002004945532313039
+741. [root vegetables, meat], support: 0.0013366303548753592
+742. [yogurt, other vegetables, whole milk], support: 0.0011361358016440553
+743. [yogurt, sausage, whole milk], support: 0.0014702933903628951
+744. [yogurt, rolls/buns, whole milk], support: 0.0013366303548753592
+745. [other vegetables, rolls/buns, whole milk], support: 0.0012029673193878234
+746. [soda, other vegetables, rolls/buns], support: 0.0011361358016440553
+747. [soda, other vegetables, whole milk], support: 0.0011361358016440553
+748. [sausage, rolls/buns, whole milk], support: 0.0011361358016440553
+749. [soda, sausage, whole milk], support: 0.0010693042839002875
+750. [soda, rolls/buns, whole milk], support: 0.0010024727661565194
