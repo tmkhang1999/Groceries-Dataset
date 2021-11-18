@@ -10,6 +10,6 @@ _ Convert the itemset list into support list which has:
 + All sub itemsets.
 + The frequency of all itemsets in the list by calculating the occurrence of these.
 
-_ Convert the frequency data into the list of association rule which has relationships among large sets of data items having more than 2 items based on “Association Rules” algorithm.
+_ Convert the frequency data into the list of association rule which has relationships among large sets of data items having more than 2 items based on “Association Rules” algorithm.12123
 
 _ Apply Quicksort to the dataset to optimize the process.
